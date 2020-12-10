@@ -1,4 +1,4 @@
-package sample;
+package hallå;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
@@ -50,6 +50,6 @@ public class Controller {
             username.setText("zONGO");
             redText.setText("");
         }
-        else redText.setText("not pog =( invalido");
+        else redText.setText("invalido");
     }
 }
